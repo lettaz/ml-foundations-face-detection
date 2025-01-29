@@ -1,4 +1,4 @@
-```markdown
+
 # Facial Detection using Linear Models
 
 ## Overview
@@ -97,4 +97,3 @@ MIT
 
 ---
 *This project was developed as part of an advanced machine learning course, demonstrating both theoretical understanding and practical implementation skills in machine learning fundamentals.*
-```
